@@ -1,0 +1,28 @@
+{
+    "name": "LilyGoRelays",
+    "version": "1.0.0",
+    "description": "A library to provide a simple interface for using all 3 kinds of LilyGo Relay Boards",
+    "keywords": "lilygo, relay, board, esp32",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/msarge/LilyGoRelays.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Matt Sargent",
+        "email": "matthew.c.sargent@gmail.com",
+        "url": "",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "",
+	"dependencies":
+	{
+		"ShiftRegister74HC595": "https://github.com/mcsarge/ShiftRegister74HC595.git"
+	},
+    "frameworks": "*",
+    "platforms": "*"
+  }

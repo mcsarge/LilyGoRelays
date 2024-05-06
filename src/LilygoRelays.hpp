@@ -22,7 +22,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  *
- * @file      LilygoRelays.hpp
+ * @file      LilyGoRelays.hpp
  * @author    Matthew Sargent (matthew.c.sargent@gmail.com)
  * @date      2024-03-12
  *
@@ -31,7 +31,7 @@
 
 #include <Arduino.h>
 #include <ArduinoJson.h>
-#include "LilygoRelaysConstants.h"
+#include "LilyGoRelaysConstants.h"
 #include <ShiftRegister74HC595_NonTemplate.h>
 
 #pragma once

@@ -48,12 +48,11 @@
 
 #define LILYGORELAY4OR8_RLED_PIN      25
 
-
 //6 RELAY BOARD
 #define LILYGORELAY6_BANKS_MIN        1
-#define LILYGORELAY6_BANKS_MAX        3
-const int LILYGORELAY6_GLED_POS=6; //Bank1 only
-const int LILYGORELAY6_RLED_POS=7; //Bank1 only
+#define LILYGORELAY6_BANKS_MAX        4
+#define LILYGORELAY6_GLED_POS         6 //Bank1 only
+#define LILYGORELAY6_RLED_POS         7 //Bank1 only
 
 //RTC	SDA	SCL	IRQ
 //GPIO	16	17	15

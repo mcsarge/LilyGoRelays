@@ -266,7 +266,7 @@ public:
 
             int index = 0;
             for (JsonObject relay : doc["relays"].as<JsonArray>()) {
-                if (index > workingCount){
+                if (index >= workingCount){
                     Serial.println("Break");
                     break;
                 }

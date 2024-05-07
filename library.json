@@ -1,6 +1,6 @@
 {
     "name": "LilyGoRelays",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A library to provide a simple interface for using all 3 kinds of LilyGo Relay Boards",
     "keywords": "lilygo, relay, board, esp32",
     "repository":

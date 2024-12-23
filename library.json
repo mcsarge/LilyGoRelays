@@ -1,10 +1,7 @@
 {
     "name": "LilyGoRelays",
     "version": "1.0.1",
-    "description": "A library to provide a simple interface for using all 3 kinds of LilyGo Relay boards. 
-    All three are ESP32 based. The 6 relay model that can be saisy chained is based on the ESP32 S3. The 
-    6 relay board uses a shift register to control the relays. This library is dependent on a shift register 
-    library.",
+    "description": "A library to provide a simple interface for using all 3 kinds of LilyGo Relay boards. All three are ESP32 based. The 6 relay model that can be saisy chained is based on the ESP32 S3. The 6 relay board uses a shift register to control the relays. This library is dependent on a shift register library.",
     "keywords": "lilygo, relay, board, esp32",
     "repository":
     {

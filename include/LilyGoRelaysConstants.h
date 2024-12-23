@@ -30,6 +30,9 @@
 
 #pragma once
 
+#define LILYGORELAY_USER_DATA_MAX     100
+
+
 // 4 RELAY BOARD
 #define LILYGORELAY4_RELAY1_PIN       21
 #define LILYGORELAY4_RELAY2_PIN       19
